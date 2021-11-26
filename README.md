@@ -1,4 +1,7 @@
 # app-currency
+http://www.cbr.ru/scripts/XML_daily.asp
+Rossiya Markaziy Bankidagi kurs valyutalarni olib ularni bazaga saqlashga mojjalangan dastur.
+Malumotlar XML formatda.
 Реализовать REST API для получения курсов валют. (CBR)
 
 После запуска проекта.
